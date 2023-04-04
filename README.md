@@ -72,15 +72,8 @@ Instead of a writing a comment explaining the code, place the code into a functi
 
 [PEP 8 naming convention](https://www.python.org/dev/peps/pep-0008/#id36)
 
-In general:
 
- * Use snake_case for modules, methods and variables.
- * Use CamelCase for classes. (Keep acronyms like HTTP, RFC, XML uppercase.)
- * Use SCREAMING_SNAKE_CASE for other constants.
- * The names of predicate methods (methods that return a boolean value) should start with is, does, has, or the likes.
- * The name of predicates should also be positive. (i.e. is_alive, is_empty versus is_not_dead, is_not_empty)
- * Generators (especially comprehension generators), iterators, and other lazy loading objects names should not imply the underlying implementation,
-   but rather the result you expect.
+conflict 
 
 ```python
 
