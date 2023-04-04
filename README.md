@@ -1,5 +1,4 @@
-testttt
-okay
+completely new resolution
 
 1. Humbly share our knowledge & expeience with the world (and some of our pain too).
 1. Assist novice/intermediate developers.
